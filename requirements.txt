@@ -2,3 +2,4 @@ mujoco>=3.0
 anthropic
 gradio
 numpy
+dotenv
